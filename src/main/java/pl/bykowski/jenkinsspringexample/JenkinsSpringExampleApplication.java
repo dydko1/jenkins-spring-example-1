@@ -15,7 +15,7 @@ public class JenkinsSpringExampleApplication {
 
     @GetMapping
     public String get() {
-        return "Eluwina Byku!";
+        return "Jestem DevOps";
     }
 
 }
